@@ -1,0 +1,416 @@
+{
+  "users": [
+    {
+      "email": "admin@learnwithsumit.com",
+      "password": "$2a$10$/TDPCTU28mFzKnSsW2pHSu512mpMKxLf8eiPbcTFLSNL87tbZBp3W",
+      "role": "admin",
+      "name": "LWS Admin",
+      "id": 1
+    },
+    {
+      "email": "saad.hasan@learnwithsumit.com",
+      "password": "$2a$10$4iJEmSkM1Dq6WMRb0SuJeeic1SEB9TrH3gw5IT441Adox/ZZXj2Ae",
+      "role": "student",
+      "name": "Saad Hasan",
+      "id": 2
+    },
+    {
+      "email": "akash.ahmed@learnwithsumit.com",
+      "password": "$2a$10$TNsYpL6ffKBrupNNvdJlleJlgIkp1C1xQJCbiv7HAl5Ggs.kucie2",
+      "role": "student",
+      "name": "Akash Ahmed",
+      "id": 3
+    },
+    {
+      "email": "md.salahuddin@learnwithsumit.com",
+      "password": "$2a$10$dcWjzIi4mLAERlWE4nfJW.1/mvC9FXqZU8A2V1rPlsqIrP3kWa8PG",
+      "role": "student",
+      "name": "Mohammad Salahuddin",
+      "id": 4
+    },
+    {
+      "email": "ferdous.shohag@learnwithsumit.com",
+      "password": "$2a$10$IZ6eXNauYSqMhl38Wc46texV2vjGZz.Zl66j7hrnW6ZDSDcMlPWeu",
+      "role": "student",
+      "name": "Ferdous",
+      "id": 5
+    },
+    {
+      "email": "riyadh.vai@learnwithsumit.com",
+      "password": "$2a$10$e4XPY48UpqmAj8teZ2je8.qd5AEk6hWm5PQwDoJsCsE91qlDPJx1G",
+      "role": "student",
+      "name": "Riyadh",
+      "id": 6
+    },
+    {
+      "email": "arif.almas@learnwithsumit.com",
+      "password": "$2a$10$NN4pXB4tBMw.ySrMDPMymepSGDdcvKzx/RjNCrdNTENOFVLWCWGOi",
+      "role": "student",
+      "name": "Arif",
+      "id": 7
+    },
+    {
+      "email": "rafi@gmail.com",
+      "password": "$2a$10$/N/9DGph35z6xywONTxWOOtVkqOOQaAF1UEDUlJ/7s1kEb5OcmbZ2",
+      "name": "rafi",
+      "id": 8
+    },
+    {
+      "email": "r.rafi1615005@gmail.com",
+      "password": "$2a$10$wcX.QX//BnmFpMiWrT/i2O3SfdAqYb6TJ0kRu..8C9sub.Tg.L/8S",
+      "name": "Nishat Rafi",
+      "id": 9
+    },
+    {
+      "email": "paisa@gmail.com",
+      "password": "$2a$10$D9k0jPvEcECMhzJEOIy0Ren6kA33.uFmj2FiN4kR8i7dfcHzgzIiS",
+      "name": "Paisa",
+      "id": 10
+    },
+    {
+      "email": "paia@gmail.com",
+      "password": "$2a$10$cNrcq1T.3oZ/woXbXtLzX.384hOHI8eUVkLZLE4qGkpop06xcQV9C",
+      "name": "Nishat Rafi",
+      "id": 11
+    },
+    {
+      "email": "pana@mail",
+      "password": "$2a$10$cibrSzCWklsyJ6ohpG1ML.eP1gtksdvxk8x98cWFYXtjooRqt1Ysu",
+      "name": "paisa",
+      "id": 12
+    },
+    {
+      "email": "via@mail.com",
+      "password": "$2a$10$BXDeJwiBFDuZc5n0qWWlkOdu4s3WYVuCfay5sU7IUMLuaKwzdHS/S",
+      "name": "via",
+      "id": 13
+    },
+    {
+      "email": "ra@gmail",
+      "password": "$2a$10$Cxl3tJMgBJjx8qrjvsAtSOWw5Sw2FbE7KIYtS5G2w86NmJDN.8gem",
+      "name": "Rahman",
+      "id": 14
+    },
+    {
+      "email": "raka@gmail",
+      "password": "$2a$10$pU5zwJIqIE.1NA7AyTUUOeY0ijGw2oaJPyL/ZNjCqByowPvPE0IyW",
+      "name": "Rahman",
+      "id": 15
+    },
+    {
+      "email": "Rafi@gamil.com",
+      "password": "$2a$10$uDigrTdlCaVSBwddSElEM.AY1QvhBANWrxJn88cmzKI9hTeuuqPRe",
+      "name": "Nishat Rafi",
+      "id": 16
+    },
+    {
+      "email": "ameen@gmial.com",
+      "password": "$2a$10$40lxSCbhNWYqnmmKzR3.bOORih6ppmRhMJSwzg7P1nsimbL4R9wxK",
+      "name": "Rafi",
+      "id": 17
+    },
+    {
+      "email": "rafi1615005@stud.kuet.ac.bd",
+      "password": "$2a$10$dkmty.rYLp6gqi3vKA3zqOXkspoO2C8LK4XTu25GTKTsO.NNqHNx6",
+      "name": "Nishat Md Rafi",
+      "role": "student",
+      "id": 18
+    },
+    {
+      "email": "ayesha@gmail.com",
+      "password": "$2a$10$quag/b5Oz2anZakZ6Fr6e.c5lMmmAj7JkAHk1hvO9wW25fUgk508m",
+      "name": "Nishat Rafi",
+      "id": 19
+    },
+    {
+      "email": "managla@gmail.comn",
+      "password": "$2a$10$dpUP1awsyUEmEcS33SRvoe5n1aUy7YIjATHVkULRU2PpTDC0Te.au",
+      "name": "mana",
+      "id": 20
+    },
+    {
+      "email": "mikala@gmail.com",
+      "password": "$2a$10$42pK6BUgYpM5gaeuesgqn.hc9esKu7124zcObH2ZJTXmnidpcCY6a",
+      "name": "mika",
+      "id": 21
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "url": "https://www.youtube.com/embed/dD9O8DnIBj4",
+      "views": "100k",
+      "duration": "17",
+      "createdAt": "2023-01-15T15:17:01.727Z"
+    },
+    {
+      "id": 2,
+      "title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "description": "JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla Tutorial \nIn this video, I have shown 8 more JavaScript pro tips that will make a JavaScript Developer's life easier.",
+      "url": "https://www.youtube.com/embed/E9_R88eKcBM",
+      "views": "91.2K",
+      "duration": "5",
+      "createdAt": "2023-02-24T17:59:00.000Z"
+    }
+  ],
+  "assignments": [
+    {
+      "id": 1,
+      "title": "Assignment 1 - Implement Debounce Function Edited",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview ",
+      "totalMark": 200
+    },
+    {
+      "id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "video_id": 2,
+      "video_title": "2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "totalMark": 100
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 1,
+      "question": "What is a Debounce function in JavaScript?",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "options": [
+        {
+          "id": "1",
+          "option": "A function that is called after a certain time interval",
+          "isCorrect": true,
+          "question": "What is a Debounce function in JavaScript?"
+        },
+        {
+          "id": "2",
+          "option": "A function that is called after a certain time interval",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "A function that is called after a certain time interval",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "A function that is called after a certain time interval",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an example of a situation where you would use the Debounce function?",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "options": [
+        {
+          "id": "2",
+          "option": "A button that performs an action when clicked.",
+          "isCorrect": false,
+          "question": "example of a situation where you would use the Debounce function?"
+        },
+        {
+          "id": 3,
+          "option": "An animation that plays when a user hovers over an element.",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "All of the abo",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "",
+          "isCorrect": false
+        },
+        {
+          "id": 5,
+          "option": "",
+          "isCorrect": false
+        },
+        {
+          "id": 6,
+          "option": "",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "assignmentMark": [
+    {
+      "id": 1,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "createdAt": "2021-01-15T15:17:01.727Z",
+      "totalMark": 100,
+      "mark": 50,
+      "repo_link": "https://github.com/Learn-with-Sumit/assignment-1",
+      "status": "published"
+    },
+    {
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "assignment_id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "Sat, 08 Apr 2023 09:57:57 GMT",
+      "totalMark": 100,
+      "mark": 50,
+      "repo_link": "https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS",
+      "status": "published",
+      "id": 3
+    },
+    {
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function Edited",
+      "createdAt": "Sat, 08 Apr 2023 10:24:56 GMT",
+      "totalMark": 200,
+      "mark": 0,
+      "repo_link": "https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS",
+      "status": "pending",
+      "id": 4
+    },
+    {
+      "student_id": 17,
+      "student_name": "Rafi",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function Edited",
+      "createdAt": "Sat, 08 Apr 2023 10:49:26 GMT",
+      "totalMark": 200,
+      "mark": 0,
+      "repo_link": "https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS",
+      "status": "pending",
+      "id": 5
+    },
+    {
+      "student_id": 18,
+      "student_name": "Nishat Md Rafi",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function Edited",
+      "createdAt": "4/8/2023, 10:12:09 PM",
+      "totalMark": 200,
+      "mark": 0,
+      "repo_link": "https://github.com/reactjs",
+      "status": "pending",
+      "id": 6
+    }
+  ],
+  "quizMark": [
+    {
+      "id": 1,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalCorrect": 1,
+      "totalWrong": 1,
+      "totalMark": 10,
+      "mark": 5
+    },
+    {
+      "id": 1,
+      "student_id": 2,
+      "student_name": "Saad ",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalCorrect": 2,
+      "totalWrong": 1,
+      "totalMark": 10,
+      "mark": 10
+    },
+    {
+      "id": 1,
+      "student_id": 5,
+      "student_name": "aad",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalCorrect": 3,
+      "totalWrong": 1,
+      "totalMark": 10,
+      "mark": 10
+    },
+    {
+      "id": 1,
+      "student_id": 4,
+      "student_name": "raad",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalCorrect": 1,
+      "totalWrong": 1,
+      "totalMark": 10,
+      "mark": 10
+    },
+    {
+      "student_id": 17,
+      "student_name": "Rafi",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalCorrect": 2,
+      "totalWrong": 0,
+      "totalMark": 10,
+      "mark": 5,
+      "id": 3
+    },
+    {
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalCorrect": 2,
+      "totalWrong": 0,
+      "totalMark": 10,
+      "mark": 5,
+      "id": 4
+    },
+    {
+      "student_id": 18,
+      "student_name": "Nishat Md Rafi",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalCorrect": 2,
+      "totalWrong": 0,
+      "totalMark": 10,
+      "mark": 10,
+      "id": 5
+    },
+    {
+      "student_id": 18,
+      "student_name": "Nishat Md Rafi",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalCorrect": 2,
+      "totalWrong": 0,
+      "totalMark": 10,
+      "mark": 10,
+      "id": 6
+    },
+    {
+      "student_id": 6,
+      "student_name": "Riyadh",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalCorrect": 2,
+      "totalWrong": 0,
+      "totalMark": 10,
+      "mark": 5,
+      "id": 7
+    }
+  ]
+}
